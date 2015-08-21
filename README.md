@@ -124,7 +124,7 @@ obj2indent.keys = {
 
 
 ## License
-Released under the [MIT Licence](https://raw.githubusercontent.com/tsuyoshiwada/indent2obj/master/LICENSE)
+Released under the [MIT Licence](https://raw.githubusercontent.com/tsuyoshiwada/obj2indent/master/LICENSE)
 
 
 ## Author
